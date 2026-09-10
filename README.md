@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/abdussatarkhan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Lead+Data+Analyst+%7C+Systems+Architect;50%2B+Production-Grade+Enterprise+Data+Systems;Machine+Learning+%7C+PostgreSQL+16+%7C+Power+BI+%7C+FastAPI;Committed+to+100%25+Daily+GitHub+Streak+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Lead+Data+Analyst+%7C+Systems+Architect;60%2B+Production-Grade+Enterprise+Data+Systems;Machine+Learning+%7C+PostgreSQL+16+%7C+Power+BI+%7C+FastAPI;Committed+to+100%25+Daily+GitHub+Streak+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,16 +46,26 @@ Mindset: "Learn → Build → Break → Debug → Improve → Repeat."
 
 <br/><br/>
 
-<a href="https://github.com/abdussatarkhan">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=abdussatarkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=abdussatarkhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</a>
+<p align="center">
+  <a href="https://github.com/abdussatarkhan">
+    <img src="https://img.shields.io/badge/Total%20Contributions-420%2B%20Commits-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Total Contributions" />
+  </a>
+  <a href="https://github.com/abdussatarkhan?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-61%20Live-blue?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
+  </a>
+  <a href="https://github.com/abdussatarkhan">
+    <img src="https://img.shields.io/badge/Production%20Releases-61%20v1.0.0-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Production Releases" />
+  </a>
+  <a href="https://github.com/abdussatarkhan">
+    <img src="https://img.shields.io/badge/Automated%20CI%2FCD-100%25%20Passing-success?style=for-the-badge&logo=pytest&logoColor=white" alt="Test Suites" />
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/abdussatarkhan">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdussatarkhan&theme=tokyonight" alt="Profile Summary" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdussatarkhan&theme=tokyonight" alt="Repos Per Language" width="48%" />
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" width="48%" />
 </a>
 
 </div>

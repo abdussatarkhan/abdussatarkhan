@@ -1,0 +1,50 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 700 17px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70A5FD; }
+    .lang-name { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #A9B1D6; }
+    .lang-pct { font: 700 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #BF91F3; }
+  </style>
+  <rect width="495" height="195" rx="6" fill="#1A1B27" stroke="#2F334D" stroke-width="1"/>
+  
+  <!-- Header -->
+  <g transform="translate(25, 32)">
+    <circle cx="8" cy="-5" r="5" fill="#38BDAE"/>
+    <text x="20" y="0" class="header">Most Used Languages &amp; Stacks</text>
+  </g>
+
+  <!-- Progress Bar (Total width 435) -->
+  <g transform="translate(30, 52)">
+    <rect x="0" y="0" width="235" height="9" rx="4" fill="#3776AB"/>
+    <rect x="237" y="0" width="113" height="9" rx="4" fill="#336791"/>
+    <rect x="352" y="0" width="48" height="9" rx="4" fill="#F7DF1E"/>
+    <rect x="402" y="0" width="20" height="9" rx="4" fill="#239120"/>
+    <rect x="424" y="0" width="11" height="9" rx="4" fill="#ED8B00"/>
+  </g>
+
+  <!-- Language Details Grid -->
+  <!-- Col 1 -->
+  <g transform="translate(35, 92)">
+    <!-- Python -->
+    <circle cx="6" cy="-4" r="5" fill="#3776AB"/>
+    <text x="20" y="0" class="lang-name">Python (AI/ML &amp; Analytics)</text>
+    <text x="20" y="16" class="lang-pct">54.0%</text>
+
+    <!-- JavaScript / HTML5 -->
+    <circle cx="6" cy="42" r="5" fill="#F7DF1E"/>
+    <text x="20" y="46" class="lang-name">HTML5 / CSS3 / D3.js</text>
+    <text x="20" y="62" class="lang-pct">11.0%</text>
+  </g>
+
+  <!-- Col 2 -->
+  <g transform="translate(265, 92)">
+    <!-- SQL -->
+    <circle cx="6" cy="-4" r="5" fill="#336791"/>
+    <text x="20" y="0" class="lang-name">SQL &amp; PostgreSQL 16</text>
+    <text x="20" y="16" class="lang-pct">26.0%</text>
+
+    <!-- C# / Java -->
+    <circle cx="6" cy="42" r="5" fill="#239120"/>
+    <text x="20" y="46" class="lang-name">C# / .NET &amp; Java Core</text>
+    <text x="20" y="62" class="lang-pct">9.0%</text>
+  </g>
+</svg>
