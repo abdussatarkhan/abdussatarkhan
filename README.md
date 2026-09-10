@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdussatarkhan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/abdussatarkhan?label=Followers&logo=github&style=flat-square&color=24292e" alt="Followers" />
   <img src="https://img.shields.io/badge/Daily%20Streak-Active%20%F0%9F%94%A5-brightgreen?style=flat-square&logo=github" alt="Streak Status" />
-  <img src="https://img.shields.io/badge/Public%20Repositories-50%2B%20Live-blue?style=flat-square&logo=github" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Public%20Repositories-60%2B%20Live-blue?style=flat-square&logo=github" alt="Public Repos" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square" alt="Status" />
 </p>
 
@@ -154,6 +154,22 @@ Mindset: "Learn → Build → Break → Debug → Improve → Repeat."
 | 🛡️ **[CyberShield-Threat-Intelligence-SOC-Analytics](https://github.com/abdussatarkhan/CyberShield-Threat-Intelligence-SOC-Analytics)** | Enterprise Cybersecurity & SOC Operations | Mean Time to Detect (MTTD 8.4m), MTTR (18.2m), MITRE ATT&CK heatmaps, and false-positive suppression (94.2%). | 🌙 Cyber Crimson |
 | 👥 **[TalentFlow-Enterprise-HR-Workforce-Analytics](https://github.com/abdussatarkhan/TalentFlow-Enterprise-HR-Workforce-Analytics)** | Enterprise People Analytics & Attrition | Voluntary attrition flight risk models (6.8%), time-to-fill / cost-per-hire, and gender pay equity (99.4%). | ☀️ Lavender Light |
 | 📜 **[InsurEdge-Property-Casualty-Actuarial-Analytics](https://github.com/abdussatarkhan/InsurEdge-Property-Casualty-Actuarial-Analytics)** | P&C Insurance Actuarial Reserving | Chain-ladder loss reserving triangles, Combined Ratio (92.4% COR), CAT loss PML, and claims cycle time. | ☀️ Ocean Blue |
+
+---
+
+### 7️⃣ Specialized Senior Analytics Engagements (7-Day Deep-Dive Systems)
+| Project | Domain Focus | Key Architecture & Analytics | Theme |
+| :--- | :--- | :--- | :---: |
+| 🌾 **[AgriYield-Precision-Agriculture-Satellite-Analytics](https://github.com/abdussatarkhan/AgriYield-Precision-Agriculture-Satellite-Analytics)** | Precision Agriculture & Satellite Telemetry | Crop yield forecasting, NDVI/EVI spectral vegetation analytics, root-zone soil moisture, and drought risk. | 🌲 Verdant Emerald |
+| 🚨 **[OmniFraud-Synthetic-Identity-Detection-Analytics](https://github.com/abdussatarkhan/OmniFraud-Synthetic-Identity-Detection-Analytics)** | FinTech & Digital Banking Fraud Risk | Multi-channel synthetic identity fraud clustering, entity graph collision detection, and velocity triggers. | 🔴 Cyber Charcoal & Crimson |
+| ❄️ **[PharmaSupply-ColdChain-Thermal-Integrity-Analytics](https://github.com/abdussatarkhan/PharmaSupply-ColdChain-Thermal-Integrity-Analytics)** | Pharmaceutical Cold Chain & Biologics | Mean kinetic temperature (MKT) modeling, cold chain IoT telemetry, excursion risk, and carrier SLA compliance. | 🧊 Glacial Arctic Ice |
+| ⚓ **[PortLogix-Maritime-Container-Terminal-Congestion](https://github.com/abdussatarkhan/PortLogix-Maritime-Container-Terminal-Congestion)** | Maritime Container Port Operations | Container dwell time optimization, quay crane moves/hr (MPH), berth turnarounds, and demurrage forecasting. | 🌊 Deep Oceanic Navy |
+| 🏛️ **[GovSpend-Public-Procurement-Integrity-Analytics](https://github.com/abdussatarkhan/GovSpend-Public-Procurement-Integrity-Analytics)** | Public Sector Procurement & Governance | Single-bidder collusion flags, Benford's law price anomaly detection, and public contract budget burn-down. | ☀️ Executive Platinum Light |
+| ⚡ **[SportsEdge-Pro-Athlete-Biomechanics-Workload](https://github.com/abdussatarkhan/SportsEdge-Pro-Athlete-Biomechanics-Workload)** | Elite Pro Sports Biomechanics | Acute-to-chronic workload ratio (ACWR), GPS sprint metrics (>25 km/h), player load, and soft-tissue injury risk. | 🔋 Obsidian & Solar Lime |
+| 🌌 **[AeroSpace-Satellite-Constellation-Orbital-Debris-Risk](https://github.com/abdussatarkhan/AeroSpace-Satellite-Constellation-Orbital-Debris-Risk)** | LEO Satellite Constellations & Flight Dynamics | Conjunction data message (CDM) risk analytics, collision probability (Pc), and delta-V propellant budgeting. | 🪐 Cosmos Purple & Violet |
+| 💧 **[CleanH2O-Municipal-Water-Distribution-Telemetry](https://github.com/abdussatarkhan/CleanH2O-Municipal-Water-Distribution-Telemetry)** | Smart Water Utilities & Municipal Infrastructure | Acoustic hydrophone leak detection, hydraulic pressure transients, and non-revenue water (NRW) loss reduction. | 💎 Pure Cerulean Aqua |
+| 🥂 **[LuxuryBrand-Clientele-Retention-Omnichannel-LTV](https://github.com/abdussatarkhan/LuxuryBrand-Clientele-Retention-Omnichannel-LTV)** | Haute Couture & High-Net-Worth Clienteling | VIP salon appointment conversion, cross-category repurchase velocity, and multi-year customer lifetime value (CLV). | ✨ Espresso & Champagne Gold |
+| 🧠 **[NeuroPulse-Brain-Computer-Interface-EEG-Telemetry](https://github.com/abdussatarkhan/NeuroPulse-Brain-Computer-Interface-EEG-Telemetry)** | MedTech & Neurotechnology Telemetry | BCI electroencephalography (EEG) spectral band power (alpha/beta/gamma), cognitive fatigue, and event classification. | ⚡ Synthwave Plum & Cyan |
 
 ---
 
