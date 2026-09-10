@@ -68,6 +68,13 @@ Mindset: "Learn → Build → Break → Debug → Improve → Repeat."
   <img src="./assets/top-langs.svg" alt="Top Languages" width="48%" />
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/abdussatarkhan">
+  <img src="./assets/velocity-telemetry.svg" alt="Engineering Velocity Telemetry" width="48%" />
+  <img src="./assets/domain-distribution.svg" alt="Enterprise Domain Distribution" width="48%" />
+</a>
+
 </div>
 
 ---
@@ -99,6 +106,44 @@ Mindset: "Learn → Build → Break → Debug → Improve → Repeat."
 <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
 
 </div>
+
+---
+
+## 🏛️ Enterprise Data & AI Systems Architecture
+
+```mermaid
+flowchart LR
+    subgraph S1 ["1. Ingestion & Telemetry"]
+        I1["📡 IoT Sensors & GPS"]
+        I2["💳 Financial Feeds & APIs"]
+        I3["🛰️ Satellite Spectral Imagery"]
+    end
+
+    subgraph S2 ["2. Lakehouse & Dimensional DW"]
+        D1[("PostgreSQL 16 Enterprise")]
+        D2[("pgvector HNSW 384d")]
+        D3["📐 Star & Snowflake Schemas"]
+    end
+
+    subgraph S3 ["3. Analytics & ML Engines"]
+        M1["⚡ Rolling Window Stats & Z-Scores"]
+        M2["🤖 Hybrid RecSys & Cosine Sim"]
+        M3["📈 Predictive Hazard & Risk ML"]
+    end
+
+    subgraph S4 ["4. Executive Delivery"]
+        E1["📊 Standalone HTML5 Dashboards"]
+        E2["📈 Power BI Executive BI"]
+        E3["✅ Automated Pytest CI/CD (100%)"]
+    end
+
+    S1 --> S2 --> S3 --> S4
+
+    style S1 fill:#131d31,stroke:#3b82f6,stroke-width:1.5px,color:#fff
+    style S2 fill:#0f2b24,stroke:#10b981,stroke-width:1.5px,color:#fff
+    style S3 fill:#271b38,stroke:#8b5cf6,stroke-width:1.5px,color:#fff
+    style S4 fill:#2d1e15,stroke:#f59e0b,stroke-width:1.5px,color:#fff
+```
 
 ---
 

@@ -1,0 +1,72 @@
+<svg width="495" height="230" viewBox="0 0 495 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70A5FD; }
+    .label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #A9B1D6; }
+    .val { font: 700 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #BF91F3; }
+    .grid-line { stroke: rgba(255, 255, 255, 0.05); stroke-dasharray: 2 2; }
+  </style>
+  <rect width="495" height="230" rx="6" fill="#1A1B27" stroke="#2F334D" stroke-width="1"/>
+  
+  <!-- Header -->
+  <g transform="translate(25, 28)">
+    <circle cx="8" cy="-5" r="5" fill="#70A5FD"/>
+    <text x="20" y="0" class="header">Enterprise Domain Project Distribution (61 Repos)</text>
+  </g>
+
+  <!-- Horizontal Bars -->
+  <!-- 1. FinTech, Banking & Risk -->
+  <g transform="translate(25, 52)">
+    <text x="0" y="10" class="label">FinTech &amp; Banking Risk</text>
+    <rect x="180" y="0" width="220" height="12" rx="4" fill="#3B82F6"/>
+    <text x="410" y="10" class="val">10 Repos</text>
+  </g>
+
+  <!-- 2. Healthcare & Life Sciences -->
+  <g transform="translate(25, 74)">
+    <text x="0" y="10" class="label">Healthcare &amp; Life Sciences</text>
+    <rect x="180" y="0" width="180" height="12" rx="4" fill="#10B981"/>
+    <text x="410" y="10" class="val">8 Repos</text>
+  </g>
+
+  <!-- 3. Logistics & Port Telemetry -->
+  <g transform="translate(25, 96)">
+    <text x="0" y="10" class="label">Logistics, Supply Chain &amp; Ports</text>
+    <rect x="180" y="0" width="180" height="12" rx="4" fill="#F59E0B"/>
+    <text x="410" y="10" class="val">8 Repos</text>
+  </g>
+
+  <!-- 4. Aviation, Fleet & Telematics -->
+  <g transform="translate(25, 118)">
+    <text x="0" y="10" class="label">Aviation, EV &amp; IoT Telematics</text>
+    <rect x="180" y="0" width="160" height="12" rx="4" fill="#06B6D4"/>
+    <text x="410" y="10" class="val">7 Repos</text>
+  </g>
+
+  <!-- 5. SaaS, Cloud FinOps & Media -->
+  <g transform="translate(25, 140)">
+    <text x="0" y="10" class="label">SaaS, Cloud FinOps &amp; Media</text>
+    <rect x="180" y="0" width="180" height="12" rx="4" fill="#8B5CF6"/>
+    <text x="410" y="10" class="val">8 Repos</text>
+  </g>
+
+  <!-- 6. Smart Energy & Utilities -->
+  <g transform="translate(25, 162)">
+    <text x="0" y="10" class="label">Smart Energy, Water &amp; AgTech</text>
+    <rect x="180" y="0" width="180" height="12" rx="4" fill="#2DD4BF"/>
+    <text x="410" y="10" class="val">8 Repos</text>
+  </g>
+
+  <!-- 7. Retail, Real Estate & Luxury -->
+  <g transform="translate(25, 184)">
+    <text x="0" y="10" class="label">Retail, Luxury &amp; Real Estate</text>
+    <rect x="180" y="0" width="160" height="12" rx="4" fill="#EAB308"/>
+    <text x="410" y="10" class="val">7 Repos</text>
+  </g>
+
+  <!-- 8. Core Systems & Security -->
+  <g transform="translate(25, 206)">
+    <text x="0" y="10" class="label">Cybersecurity &amp; Core Systems</text>
+    <rect x="180" y="0" width="120" height="12" rx="4" fill="#EF4444"/>
+    <text x="410" y="10" class="val">5 Repos</text>
+  </g>
+</svg>
