@@ -228,6 +228,23 @@ flowchart LR
 
 ---
 
+### 8️⃣ Software Engineering, Desktop Systems & Native Applications
+| Project | Architecture & Tech Stack | Scope & Core Capabilities | Platform |
+| :--- | :--- | :--- | :---: |
+| 🎙️ **[....._python-projects_.....](https://github.com/abdussatarkhan/....._python-projects_.....)** | Python, Web Speech API, Canvas HUD | JARVIS voice-activated personal assistant, speech synthesis, system automation, and futuristic HUD. | 🖥️ Desktop / Web |
+| 💼 **[dotnet-freelancer-finance-tracker](https://github.com/abdussatarkhan/dotnet-freelancer-finance-tracker)** | C# (.NET 8), MediatR CQRS, EF Core, PostgreSQL | Clean Architecture Web API, recurring freelance billing workers, multi-currency ledger, and Docker. | 🌐 Web API / Backend |
+| ⛽ **[petrol-pump-Farooq](https://github.com/abdussatarkhan/petrol-pump-Farooq)** | C# (.NET 8), WPF, MVVM, EF Core, PostgreSQL | Fuel dispenser ERP, nozzle meter reading reconciliation, underground tank ATG inventory, and shifts. | 🖥️ Windows Desktop |
+| 📹 **[media-grab](https://github.com/abdussatarkhan/media-grab)** | C# (.NET 8), Clean Architecture, ASP.NET Core | Multi-provider media stream extraction, SSRF security guard, background worker queue, and sanitization. | 🌐 Web Platform |
+| 🏫 **[school-desktop-app](https://github.com/abdussatarkhan/school-desktop-app)** | Electron, React (Vite), Node.js, Express, Prisma | School management system (SMS), student admissions, fee challan invoicing, and academic gradebook. | 🖥️ Cross-Platform App |
+| 🛒 **[point-of-sale-](https://github.com/abdussatarkhan/point-of-sale-)** | Python Flask, MySQL, JavaScript, Bootstrap | Supermarket checkout POS, USB barcode scanning, split-tender payments, and thermal receipt generation. | 🖥️ Retail POS |
+| 📒 **[khatabook](https://github.com/abdussatarkhan/khatabook)** | Python Flask, SQLite, PWA Service Worker | Digital merchant Udhar ledger, customer debit/credit balance tracking, and automated payment reminders. | 📱 Mobile PWA |
+| 📱 **[student-toolkit](https://github.com/abdussatarkhan/student-toolkit)** | Kotlin, Jetpack Compose, Material 3, Room DB | Native Android academic organizer, weighted GPA/CGPA forecasting engine, and Pomodoro focus timer. | 📱 Android Native |
+| ⌨️ **[typing-master](https://github.com/abdussatarkhan/typing-master)** | Python 3.10+, Tkinter Desktop GUI | Touch typing tutor, real-time WPM calculation, keystroke latency profiling, and ergonomic keyboard visualizer. | 🖥️ Desktop GUI |
+| 📡 **[WIFI-Diagnostic-Tool](https://github.com/abdussatarkhan/WIFI-Diagnostic-Tool)** | Python Flask, Windows netsh, Chart.js | Wireless network diagnostic utility, 802.11 signal RSSI telemetry, channel congestion, and RF presence. | 🖥️ Systems Utility |
+| ☕ **[java-projects](https://github.com/abdussatarkhan/java-projects)** | Java 17+, Swing GUI, Apache Ant, Clean OOP | Modular retail shop inventory & cashier billing system with MVC pattern and low-stock alerting. | 🖥️ Desktop Software |
+
+---
+
 ## 💼 Core Competencies
 
 - **🤖 AI Engineering & Vector Search**: Production `pgvector` HNSW index optimization, SentenceTransformers, hybrid ranking algorithms, and time-series forecasting.
