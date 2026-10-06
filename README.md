@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://github.com/abdussatarkhan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Lead+Data+Analyst+%7C+Systems+Architect;60%2B+Production-Grade+Enterprise+Data+Systems;Machine+Learning+%7C+PostgreSQL+16+%7C+Power+BI+%7C+FastAPI;Committed+to+100%25+Daily+GitHub+Streak+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Lead+Data+Analyst+%7C+Systems+Architect;60%2B+Production-Grade+Enterprise+Data+Systems;Machine+Learning+%7C+PostgreSQL+16+%7C+Power+BI+%7C+FastAPI;n8n+Automation+%7C+Electron+%7C+React+19+%7C+Node.js;Committed+to+100%25+Daily+GitHub+Streak+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdussatarkhan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/abdussatarkhan?label=Followers&logo=github&style=flat-square&color=24292e" alt="Followers" />
-  <img src="https://img.shields.io/badge/Daily%20Streak-Active%20%F0%9F%94%A5%20(Sep%2021)-brightgreen?style=flat-square&logo=github" alt="Streak Status" />
+  <img src="https://img.shields.io/badge/Daily%20Streak-Active%20%F0%9F%94%A5%20(Oct%206)-brightgreen?style=flat-square&logo=github" alt="Streak Status" />
 
   <img src="https://img.shields.io/badge/Public%20Repositories-60%2B%20Live-blue?style=flat-square&logo=github" alt="Public Repos" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square" alt="Status" />
@@ -103,8 +103,19 @@ Mindset: "Learn → Build → Break → Debug → Improve → Repeat."
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 <a href="https://github.com/pgvector/pgvector" target="_blank"><img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
+<a href="https://www.prisma.io/" target="_blank"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
 <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+
+### ⚙️ Automation, Desktop & Full-Stack
+<a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>
+<a href="https://airtable.com/" target="_blank"><img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable" /></a>
+<a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" /></a>
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
 
 </div>
 
@@ -250,6 +261,8 @@ flowchart LR
 
 | Date | Portfolio Milestones & Architecture Updates | Streak Status |
 |:---:|---|:---:|
+| **2026-10-06** | Updated main GitHub profile README: added n8n, Airtable, Electron, React 19, Node.js, Tailwind CSS, SQLite, and Prisma ORM to tech stack; added Automation & Desktop native section; refreshed typing headline and streak badge. | 🔥 Active (Verified) |
+| **2026-10-05** | Engineered a full **Fiverr Gig Factory Automation Pipeline** using n8n + Airtable + Google Gemini AI: built 15-project Airtable portfolio database, designed importable n8n workflow with Manual Trigger → Airtable Read → Gemini AI generation → JSON parse → Airtable write → Email notification; generated all 15 ready-to-publish SEO-optimized Fiverr gig listings (titles, descriptions, 5 search tags, 3 pricing tiers, FAQs) covering School ERP, Full-Stack Web, Data Analytics, Flask AI, Electron Desktop, REST API, Python Automation, PDF Generation, Database Design, n8n Automation, and more. | 🔥 Active (Verified) |
 | **2026-09-21** | Architected & released School Management System v9.56: Implemented realized cash-basis accounting matrix, class & whole-school result gazette PDF generation engine, master timetable signatory administration with revision history, alumni/departed matrix, and un-bypassable hardware license locking. | 🔥 Active (Verified) |
 | **2026-09-20** | Engineered Cash Flow Matrix with advance tuition and past arrears isolation; finalized v9.5 release pipeline. | 🔥 Active (Verified) |
 | **2026-09-18** | Automated multi-platform CI/CD packaging on GitHub Actions for Electron desktop distributions across Windows (.exe) and macOS (.dmg). | 🔥 Active (Verified) |
