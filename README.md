@@ -11,9 +11,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdussatarkhan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/abdussatarkhan?label=Followers&logo=github&style=flat-square&color=24292e" alt="Followers" />
-  <img src="https://img.shields.io/badge/Daily%20Streak-Active%20%F0%9F%94%A5%20(Oct%206)-brightgreen?style=flat-square&logo=github" alt="Streak Status" />
+  <img src="https://img.shields.io/badge/Daily%20Streak-Active%20%F0%9F%94%A5%20(Nov%202)-brightgreen?style=flat-square&logo=github" alt="Streak Status" />
 
-  <img src="https://img.shields.io/badge/Public%20Repositories-60%2B%20Live-blue?style=flat-square&logo=github" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Public%20Repositories-62%2B%20Live-blue?style=flat-square&logo=github" alt="Public Repos" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square" alt="Status" />
 </p>
 
@@ -52,7 +52,7 @@ Mindset: "Learn → Build → Break → Debug → Improve → Repeat."
     <img src="https://img.shields.io/badge/Total%20Contributions-460%2B%20Commits-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Total Contributions" />
   </a>
   <a href="https://github.com/abdussatarkhan?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-61%20Live-blue?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
+    <img src="https://img.shields.io/badge/Public%20Repositories-62%20Live-blue?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
   </a>
   <a href="https://github.com/abdussatarkhan">
     <img src="https://img.shields.io/badge/Production%20Releases-61%20v1.0.0-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Production Releases" />
@@ -243,6 +243,7 @@ flowchart LR
 ### 8️⃣ Software Engineering, Desktop Systems & Native Applications
 | Project | Architecture & Tech Stack | Scope & Core Capabilities | Platform |
 | :--- | :--- | :--- | :---: |
+| 🏛️ **[College-Web-Application](https://github.com/abdussatarkhan/College-Web-Application)** | C# (ASP.NET Core 10 MVC), EF Core, Bootstrap 5.3, PostgreSQL / In-Memory | Flagship Institutional Portal & Campus ERP for Government Degree College Madyan Swat — University of Swat benchmark, 6 BS academic disciplines, marks-based admissions engine, 75% attendance rule, roll number slips, and bilingual parent notifications. | 🌐 Full-Stack Web ERP |
 | 🎙️ **[....._python-projects_.....](https://github.com/abdussatarkhan/....._python-projects_.....)** | Python, Web Speech API, Canvas HUD | JARVIS voice-activated personal assistant, speech synthesis, system automation, and futuristic HUD. | 🖥️ Desktop / Web |
 | 💼 **[dotnet-freelancer-finance-tracker](https://github.com/abdussatarkhan/dotnet-freelancer-finance-tracker)** | C# (.NET 8), MediatR CQRS, EF Core, PostgreSQL | Clean Architecture Web API, recurring freelance billing workers, multi-currency ledger, and Docker. | 🌐 Web API / Backend |
 | ⛽ **[petrol-pump-Farooq](https://github.com/abdussatarkhan/petrol-pump-Farooq)** | C# (.NET 8), WPF, MVVM, EF Core, PostgreSQL | Fuel dispenser ERP, nozzle meter reading reconciliation, underground tank ATG inventory, and shifts. | 🖥️ Windows Desktop |
@@ -261,6 +262,7 @@ flowchart LR
 
 | Date | Portfolio Milestones & Architecture Updates | Streak Status |
 |:---:|---|:---:|
+| **2026-11-02** | Upgraded **Government Degree College Madyan Swat** Flagship Institutional Web Portal & Campus ERP (ASP.NET Core 10.0 MVC): Engineered framed rectangular executive portrait layout for Principal Mr. Rasheed Ahmad benchmarked to University of Swat standards, standardized accredited offerings across 6 BS academic departments (Computer Science, Microbiology, Chemistry, Botany, English, Urdu) + 3 HSSC programs, overhauled color scheme to prestigious Royal Navy (#0B1B3D) & Academic Gold (#D4AF37), eliminated green overlays, implemented transparent marks-based merit calculation, and integrated PWA offline capabilities. | 🔥 Active (Streak Preserved) |
 | **2026-10-06** | Updated main GitHub profile README: added n8n, Airtable, Electron, React 19, Node.js, Tailwind CSS, SQLite, and Prisma ORM to tech stack; added Automation & Desktop native section; refreshed typing headline and streak badge. | 🔥 Active (Verified) |
 | **2026-10-05** | Engineered a full **Fiverr Gig Factory Automation Pipeline** using n8n + Airtable + Google Gemini AI: built 15-project Airtable portfolio database, designed importable n8n workflow with Manual Trigger → Airtable Read → Gemini AI generation → JSON parse → Airtable write → Email notification; generated all 15 ready-to-publish SEO-optimized Fiverr gig listings (titles, descriptions, 5 search tags, 3 pricing tiers, FAQs) covering School ERP, Full-Stack Web, Data Analytics, Flask AI, Electron Desktop, REST API, Python Automation, PDF Generation, Database Design, n8n Automation, and more. | 🔥 Active (Verified) |
 | **2026-09-21** | Architected & released School Management System v9.56: Implemented realized cash-basis accounting matrix, class & whole-school result gazette PDF generation engine, master timetable signatory administration with revision history, alumni/departed matrix, and un-bypassable hardware license locking. | 🔥 Active (Verified) |
