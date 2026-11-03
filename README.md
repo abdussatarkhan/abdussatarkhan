@@ -307,3 +307,5 @@ flowchart LR
 ⭐ **If you find any of my repositories helpful, feel free to drop a star!** ⭐
 
 </div>
+
+<!-- Streak Update: 2026-11-03 14:06:05 - Added HOD Department Portal & Admission Toggles -->
