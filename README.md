@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdussatarkhan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/abdussatarkhan?label=Followers&logo=github&style=flat-square&color=24292e" alt="Followers" />
-  <img src="https://img.shields.io/badge/Daily%20Streak-Active%20%F0%9F%94%A5%20(Nov%2022)-brightgreen?style=flat-square&logo=github" alt="Streak Status" />
+  <img src="https://img.shields.io/badge/Daily%20Streak-Active%20%F0%9F%94%A5%20(Nov%2028)-brightgreen?style=flat-square&logo=github" alt="Streak Status" />
 
   <img src="https://img.shields.io/badge/Public%20Repositories-62%2B%20Live-blue?style=flat-square&logo=github" alt="Public Repos" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square" alt="Status" />
